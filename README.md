@@ -1,9 +1,7 @@
 # AvvocadopneanSite
-Website about Avvocadopnean. For translating and other things
-
-
-
-
+Website about and for using Avvocadopnean, my very own cipher.
+Based on the C program I made here: https://github.com/meiousei9/AvvocadopneanCipherTranslator
+Purpose of this project is to finish the program fully and make it online (don't need to download and compile)
 
 **License**
 
