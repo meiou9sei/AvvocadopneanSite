@@ -1,7 +1,7 @@
 # AvvocadopneanSite
 Website about and for using Avvocadopnean, my very own cipher.
 
-Based on the C program I made here: https://github.com/meiousei9/AvvocadopneanCipherTranslator
+Based on the C program I made here: https://github.com/meiou9sei/AvvocadopneanCipherTranslator
 
 Purpose of this project is to finish the program fully and make it online (don't need to download and compile)
 
